@@ -1,0 +1,738 @@
+1657766277226	geckodriver	INFO	Listening on 127.0.0.1:55468
+1657766280300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileC2ObBM"
+1657766281035	Marionette	INFO	Marionette enabled
+1657766281040	Marionette	INFO	Listening on port 55484
+WebDriver BiDi listening on ws://localhost:55469
+Read port: 55484
+1657766281253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileC2ObBM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55469/devtools/browser/0d4e9c18-a3a5-43ea-8625-ee4c40a1b48a
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1657766290855	Marionette	INFO	Stopped listening on port 55484
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+[Parent 23432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657766325932	geckodriver	INFO	Listening on 127.0.0.1:55633
+1657766328988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileWY0hCB"
+1657766329298	Marionette	INFO	Marionette enabled
+1657766329303	Marionette	INFO	Listening on port 55645
+WebDriver BiDi listening on ws://localhost:55634
+Read port: 55645
+1657766329482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileWY0hCB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55634/devtools/browser/952702c6-5ed9-4ed0-b5f4-7d97de1b9f55
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 6176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 2299 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657766706569	Marionette	INFO	Stopped listening on port 55645
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ppData\\Local\\Temp\\rust_mozprofileXutRAb"
+1657766376151	Marionette	INFO	Marionette enabled
+1657766376155	Marionette	INFO	Listening on port 59525
+WebDriver BiDi listening on ws://localhost:59514
+Read port: 59525
+1657766376337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileXutRAb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59514/devtools/browser/e21f2a12-7ca1-4d4b-98a5-d83755bf866f
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657111547/fe/zaz-cerebro/prd/scripts/zaz.min.js, line 1: TypeError: setting getter-only property "message"
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 6398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657766707302	Marionette	INFO	Stopped listening on port 59525
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ofileGCIuIE"
+1657766490644	Marionette	INFO	Marionette enabled
+1657766490649	Marionette	INFO	Listening on port 61836
+WebDriver BiDi listening on ws://localhost:61823
+Read port: 61836
+1657766490844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileGCIuIE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61823/devtools/browser/9f1d56db-fc50-4806-b725-a3e13e9fc919
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 2390 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.terra.com.br/economia/, line 3257: SyntaxError: missing ] after element list
+JavaScript note: https://www.terra.com.br/economia/, line 3236: [ opened at line 3236, column 25
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 3327 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 3184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657766708145	Marionette	INFO	Stopped listening on port 61836
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ofileye5YeS"
+1657766582176	Marionette	INFO	Marionette enabled
+1657766582181	Marionette	INFO	Listening on port 51572
+WebDriver BiDi listening on ws://localhost:51559
+Read port: 51572
+1657766582356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileye5YeS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51559/devtools/browser/d888b1ed-ed57-4bc9-9752-8142dfd5b563
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657111547/fe/zaz-cerebro/prd/scripts/zaz.min.js, line 1: TypeError: setting getter-only property "message"
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657766708916	Marionette	INFO	Stopped listening on port 51572
+JavaScript error: , line 0: NetworkError: AutoCancel
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657766794662	geckodriver	INFO	Listening on 127.0.0.1:64230
+1657766797717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileAiH4GT"
+1657766798085	Marionette	INFO	Marionette enabled
+1657766798090	Marionette	INFO	Listening on port 64244
+WebDriver BiDi listening on ws://localhost:64231
+Read port: 64244
+1657766798402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileAiH4GT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64231/devtools/browser/f328fb8c-894e-43d7-9c22-54c69c46ad9e
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1064 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657766840675	Marionette	INFO	Stopped listening on port 64244
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+08	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileQjkn4E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64754/devtools/browser/60a31279-b6ee-4e7e-9e88-39b985022cd0
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 7269 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1648 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/7335566706303079984/300x250/duster_learn_jun22_300x250_clicktag/index.html, line 142: TypeError: a.g is null
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: https://s0.2mdn.net/sadbundle/7335566706303079984/300x250/duster_learn_jun22_300x250_clicktag/index.html, line 157: TypeError: this.g is null
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657767143016	Marionette	INFO	Stopped listening on port 64766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 20728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ost:60043
+Read port: 60054
+1657766894254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilehLpYDQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60043/devtools/browser/684df4e2-06d9-42e4-a936-a38487f9437c
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 7595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657767143881	Marionette	INFO	Stopped listening on port 60054
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ofileVYGbzz"
+1657767048115	Marionette	INFO	Marionette enabled
+1657767048119	Marionette	INFO	Listening on port 54784
+WebDriver BiDi listening on ws://localhost:54762
+Read port: 54784
+1657767048302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileVYGbzz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54762/devtools/browser/8a0d71b3-9947-422d-a619-071a91488a1f
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.terra.com.br"
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1917 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657767145100	Marionette	INFO	Stopped listening on port 54784
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+ofileuTSUqn"
+1657767083646	Marionette	INFO	Marionette enabled
+1657767083650	Marionette	INFO	Listening on port 59899
+WebDriver BiDi listening on ws://localhost:59886
+Read port: 59899
+1657767083828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileuTSUqn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59886/devtools/browser/b6c89ead-07af-467d-a7fa-50a77b60c066
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 173 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 6874 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657767146534	Marionette	INFO	Stopped listening on port 59899
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilefsLThF"
+1657767125164	Marionette	INFO	Marionette enabled
+1657767125168	Marionette	INFO	Listening on port 49208
+WebDriver BiDi listening on ws://localhost:49196
+Read port: 49208
+1657767125365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilefsLThF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49196/devtools/browser/cd668a3b-4c02-48c4-83a4-3a9745a91d76
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 4612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e2961657767144185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile7VQHnI"
+1657767144611	Marionette	INFO	Marionette enabled
+1657767144618	Marionette	INFO	Listening on port 49454
+WebDriver BiDi listening on ws://localhost:49350
+Read port: 49454
+1657767144861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundE1657767147746	Marionette	INFO	Stopped listening on port 49208
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19564, IPC I/O Parent] WARNING: file /JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1657767150062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AECoivqBAQAATKzk8SXBA6a4zpPG4mSummBVTDMMOH8JD6BNHvJg2L4N-6Tk&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AECoivqBAQAATKzk8SXBA6a4zpPG4mSummBVTDMMOH8JD6BNHvJg2L4N-6Tk&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657767335150	Marionette	INFO	Stopped listening on port 49454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 8208, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilew4nWcd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58795/devtools/browser/64bde259-dd99-4cbe-a9ac-b7447988f9c1
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 7003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657767376863	Marionette	INFO	Stopped listening on port 58805
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+INFO	Listening on port 49875
+WebDriver BiDi listening on ws://localhost:49861
+Read port: 49875
+1657767336419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilePsruL0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49861/devtools/browser/ff07ea28-4561-453f-855f-60433175dddb
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1803 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657767377793	Marionette	INFO	Stopped listening on port 49871657767377871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--JavaScript error: , line 0: NetworkError: AutoCancel
+"localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileL5lzID"
+1657767378228	Marionette	INFO	Marionette enabled
+1657767378233	Marionette	INFO	Listening on port 62541
+WebDriver BiDi listening on ws://localhost:62527
+Read port: 62541
+1657767378495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileL5lzID\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62527/devtools/browser/184b0f74-df63-4d9e-bd92-06c6e214b6aa
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1161 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1657768268876	Marionette	INFO	Stopped listening on port 62541
+JavaScript error: , line 0: NetworkError: AutoCancel
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e enabled
+1657767437031	Marionette	INFO	Listening on port 52654
+WebDriver BiDi listening on ws://localhost:52634
+Read port: 52654
+1657767437199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileN721zZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52634/devtools/browser/ad693ab1-b4a3-4d11-8c84-03708df24223
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 6888 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 3530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967410/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967441/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal4294967441/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal4294967441/thread1\"}", "resource://devtools/shared/protocol/Front.js", 344))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal4294967441/thread1, {"value":true,"from":"server0.conn0.windowGlobal4294967441/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:344:24
+onPacket@resource://devtools/client/devtools-client.js:482:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 344, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal4294967441/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal4294967441/thread1\"}", "resource://devtools/shared/protocol/Front.js", 344))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967442/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal4294967442/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal4294967442/thread1\"}", "resource://devtools/shared/protocol/Front.js", 344))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal4294967442/thread1, {"value":true,"from":"server0.conn0.windowGlobal4294967442/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:344:24
+onPacket@resource://devtools/client/devtools-client.js:482:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 344, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal4294967442/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal4294967442/thread1\"}", "resource://devtools/shared/protocol/Front.js", 344))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967444/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967446/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal4294967446/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal4294967446/thread1\"}", "resource://devtools/shared/protocol/Front.js", 344))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal4294967446/thread1, {"value":true,"from":"server0.conn0.windowGlobal4294967446/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:344:24
+onPacket@resource://devtools/client/devtools-client.js:482:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 344, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal4294967446/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal4294967446/thread1\"}", "resource://devtools/shared/protocol/Front.js", 344))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967457/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967461/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] topLevelTarget is null"
+console.error: "appendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:26\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:201:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1524:22\n"
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "[COMPATIBILITY_UPDATE_TOP_LEVEL_TARGET_FAILURE] Connection closed, pending request to server0.conn0.windowGlobal4294967312/domwalker25, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nchildren@resource://devtools/client/fronts/walker.js:339:20\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:274:44\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1688:21\nCanCloseWindow@chrome://browser/content/browser.js:8055:36\nWindowIsClosing@chrome://browser/content/browser.js:8084:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3032:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n"
+console.error: "baseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:106:23\ndestroy@resource://devtools/shared/protocol/Front.js:74:10\ndestroy@resource://devtools/shared/protocol/Pool.js:211:17\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:110:13\ndestroy@resource://devtools/shared/protocol/Front.js:74:10\ndestroy@resource://devtools/client/fronts/inspector.js:137:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:606:17\n"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657767502050	Marionette	INFO	Stopped listening on port 52654
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657767592331	geckodriver	INFO	Listening on 127.0.0.1:61253
+1657767595386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileHhUOMz"
+1657767595704	Marionette	INFO	Marionette enabled
+1657767595709	Marionette	INFO	Listening on port 61264
+WebDriver BiDi listening on ws://localhost:61254
+Read port: 61264
+1657767595875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileHhUOMz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61254/devtools/browser/40e60442-1690-40b0-bf8a-49dcfe40f836
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657111547/fe/zaz-cerebro/prd/scripts/zaz.min.js, line 1: TypeError: setting getter-only property "message"
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 5447 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657768269766	Marionette	INFO	Stopped listening on port 61264
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ofilecRjgbM"
+1657767896626	Marionette	INFO	Marionette enabled
+1657767896630	Marionette	INFO	Listening on port 62371
+WebDriver BiDi listening on ws://localhost:62361
+Read port: 62371
+1657767896813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilecRjgbM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62361/devtools/browser/f3ff8591-7239-4286-9098-00f3f4d44e1d
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657111547/fe/zaz-cerebro/prd/scripts/zaz.min.js, line 1: TypeError: setting getter-only property "message"
+JavaScript error: https://s1.trrsf.com/update-1657111547/fe/zaz-cerebro/prd/scripts/zaz.min.js, line 1: TypeError: setting getter-only property "message"
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 5009 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657768271184	Marionette	INFO	Stopped listening on port 62371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+"localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilez07lQS"
+1657767947543	Marionette	INFO	Marionette enabled
+1657767947547	Marionette	INFO	Listening on port 61298
+WebDriver BiDi listening on ws://localhost:61286
+Read port: 61298
+1657767947732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilez07lQS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61286/devtools/browser/f7af188e-ab05-47ea-a8cf-7238e3537467
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 4195 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657768272011	Marionette	INFO	Stopped listening on port 61298
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileqPuirq"
+1657768038745	Marionette	INFO	Marionette enabled
+1657768038750	Marionette	INFO	Listening on port 51639
+WebDriver BiDi listening on ws://localhost:51621
+Read port: 51639
+1657768038940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileqPuirq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51621/devtools/browser/96fd136d-081f-4512-8050-83eb12494ff1
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1657768042930	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 3003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657768272790	Marionette	INFO	Stopped listening on port 51639
+[Parent 2292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+[Parent 2292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+host:61953
+Read port: 61964
+1657768231732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile5nCD7V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61953/devtools/browser/b8287580-298b-41b8-9fea-fdd62da26a51
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6542864734718489789/300x250/300x250-Fechado/index.html#t=8098135880063109852&p=https%3A%2F%2Fd44c6d758bd8b8818d5d160f4e1689c6.safeframe.googlesyndication.com, line 46: TypeError: "WebKit|Moz|MS|O".match(...) is null
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657768273710	Marionette	INFO	Stopped listening on port 61964
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: NetworkError: AutoCancel
+get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile7PM349\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60162/devtools/browser/27587024-cc21-4c80-b3ad-43956348d168
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 3541 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/7509961879425539518/970x250/970x250-Fechado/index.html#t=8339572509937181391&p=https%3A%2F%2F744e8f3fe9f2771c9ee82581752725ca.safeframe.googlesyndication.com, line 44: TypeError: "WebKit|Moz|MS|O".match(...) is null
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1657769215076	Marionette	INFO	Stopped listening on port 60182
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+8	Marionette	INFO	Listening on port 64513
+WebDriver BiDi listening on ws://localhost:64502
+Read port: 64513
+1657768367957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileeyiJ0k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64502/devtools/browser/821ff3aa-08a9-4a40-aff3-134b68228ea5
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 5680 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/7509961879425539518/970x250/970x250-Fechado/index.html#t=14620643078726015936&p=https%3A%2F%2F26ebd65c07f4505dca94fa866358c0c4.safeframe.googlesyndication.com, line 44: TypeError: "WebKit|Moz|MS|O".match(...) is null
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1657769216082	Marionette	INFO	Stopped listening on port 64513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ofileiQrowc"
+1657769214370	Marionette	INFO	Marionette enabled
+1657769214376	Marionette	INFO	Listening on port 55367
+WebDriver BiDi listening on ws://localhost:55357
+Read port: 55367
+1657769214583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileiQrowc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55357/devtools/browser/d0c59e20-ca3a-47dc-9eb9-0a4e95e8ceeb
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 2549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657769363233	Marionette	INFO	Stopped listening on port 55367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+"localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile0WYN7Q"
+1657769269351	Marionette	INFO	Marionette enabled
+1657769269355	Marionette	INFO	Listening on port 58191
+WebDriver BiDi listening on ws://localhost:58181
+Read port: 58191
+1657769269529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile0WYN7Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58181/devtools/browser/4a578b33-d8d0-48fb-a0f3-5b65788f6225
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 2664 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657769558405	Marionette	INFO	Stopped listening on port 58191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilel0O5tb"
+1657769364407	Marionette	INFO	Marionette enabled
+1657769364413	Marionette	INFO	Listening on port 56623
+WebDriver BiDi listening on ws://localhost:56606
+Read port: 56623
+1657769364596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilel0O5tb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56606/devtools/browser/c25590ff-d759-4605-95b9-1f5a1d5a1dee
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 2860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657769561163	Marionette	INFO	Stopped listening on port 56623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileDaffo4"
+1657769559499	Marionette	INFO	Marionette enabled
+1657769559504	Marionette	INFO	Listening on port 60597
+WebDriver BiDi listening on ws://localhost:60583
+Read port: 60597
+1657769559759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileDaffo4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60583/devtools/browser/66d69e12-c6e8-4c42-9531-14ad77699944
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1657769563790	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 7195 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657770090615	geckodriver	INFO	Listening on 127.0.0.1:55223
+1657770093686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileHtHaHe"
+1657770094060	Marionette	INFO	Marionette enabled
+1657770094064	Marionette	INFO	Listening on port 55241
+WebDriver BiDi listening on ws://localhost:55224
+Read port: 55241
+1657770094278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileHtHaHe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55224/devtools/browser/5e2eaa12-ac84-4f2e-8e13-c62d0e7dbf73
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1657770123332	geckodriver	INFO	Listening on 127.0.0.1:55343
+1657770126392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55344" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile4xuyZ0"
+1657770126776	Marionette	INFO	Marionette enabled
+1657770126782	Marionette	INFO	Listening on port 55356
+WebDriver BiDi listening on ws://localhost:55344
+Read port: 55356
+1657770127018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile4xuyZ0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55344/devtools/browser/04637319-4225-4e6f-9760-13d50c2085f9
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657111547/fe/zaz-cerebro/prd/scripts/zaz.min.js, line 1: TypeError: setting getter-only property "message"
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 2168 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 4794 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657770537258	Marionette	INFO	Stopped listening on port 55356
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+tte	INFO	Marionette enabled
+1657770271226	Marionette	INFO	Listening on port 58591
+WebDriver BiDi listening on ws://localhost:58580
+Read port: 58591
+1657770271469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilej7V0BD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58580/devtools/browser/cb651abb-2595-4105-be12-24262bcf1681
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 5744 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657770538086	Marionette	INFO	Stopped listening on port 58591
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: AutoCancel
+"localhost" "-no-remote" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile6tMQsR"
+1657770423755	Marionette	INFO	Marionette enabled
+1657770423759	Marionette	INFO	Listening on port 53340
+WebDriver BiDi listening on ws://localhost:53327
+Read port: 53340
+1657770423976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofile6tMQsR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53327/devtools/browser/2f711210-9c8e-41b6-baf3-b4e9efc71a71
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1657770429023	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1762 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 6616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/7335566706303079984/300x250/duster_learn_jun22_300x250_clicktag/index.html, line 142: TypeError: a.g is null
+JavaScript error: https://s0.2mdn.net/sadbundle/7335566706303079984/300x250/duster_learn_jun22_300x250_clicktag/index.html, line 157: TypeError: this.g is null
+JavaScript error: , line 0: NetworkError: AutoCancel
+1657770539104	Marionette	INFO	Stopped listening on port 53340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilesGNy6d"
+1657770533609	Marionette	INFO	Marionette enabled
+1657770533614	Marionette	INFO	Listening on port 61025
+WebDriver BiDi listening on ws://localhost:61015
+Read port: 61025
+1657770533793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofilesGNy6d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61015/devtools/browser/8e0953d0-fb2e-45dc-8a9e-e38fba2e50b1
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 457 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657770633876	Marionette	INFO	Stopped listening on port 61025
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileQ5SIL4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49586/devtools/browser/9a422d6f-59f9-4570-9f15-ddac29e764a3
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1245 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+1657770737111	Marionette	INFO	Stopped listening on port 49600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileCDCrcV"
+1657770735323	Marionette	INFO	Marionette enabled
+1657770735328	Marionette	INFO	Listening on port 51566
+WebDriver BiDi listening on ws://localhost:51556
+Read port: 51566
+1657770735619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Master\\AppData\\Local\\Temp\\rust_mozprofileCDCrcV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51556/devtools/browser/c183827f-f223-4137-9540-9ca408469e60
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 5850 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s1.trrsf.com/update-1657199149/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 906 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript warning: https://player.aniview.com/ssync/5e0e296628a061270b21ccab/ssync.html?pid=5e0e296628a061270b21ccab&r=https%3A%2F%2Fvisitor.omnitagjs.com%2Fvisitor%2Fsync%3Fuid%3De8ecb87ff2ef3a3b16ba16c51e7986ac%26visitor%3D%5BAV_UID%5D%26name%3DOPENWEB_VIDEO&gdpr=0&gdpr_consent=undefined, line 62: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript warning: https://pagead2.googlesyndication.com/bg/x-7aydTzyDGf5pB5jP33n95ytuiMcqG17W4hZ3yQxPE.js line 2 > eval line 1651 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
